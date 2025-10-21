@@ -1,0 +1,2 @@
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.2_fungsi\praktik_7.2_fungsi\obj\Debug\praktik_7.2_fungsi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.2_fungsi\praktik_7.2_fungsi\obj\Debug\praktik_7.2_fungsi.csproj.CoreCompileInputs.cache
