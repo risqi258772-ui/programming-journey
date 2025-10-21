@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\zara and ummi\Praktik_6.2_XPPLG\Praktik_6.2_XPPLG\bin\Debug\Praktik_6.2_XPPLG.exe.config
+C:\Users\LENOVO\Documents\zara and ummi\Praktik_6.2_XPPLG\Praktik_6.2_XPPLG\bin\Debug\Praktik_6.2_XPPLG.exe
+C:\Users\LENOVO\Documents\zara and ummi\Praktik_6.2_XPPLG\Praktik_6.2_XPPLG\bin\Debug\Praktik_6.2_XPPLG.pdb
+C:\Users\LENOVO\Documents\zara and ummi\Praktik_6.2_XPPLG\Praktik_6.2_XPPLG\obj\Debug\Praktik_6.2_XPPLG.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\zara and ummi\Praktik_6.2_XPPLG\Praktik_6.2_XPPLG\obj\Debug\Praktik_6.2_XPPLG.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\zara and ummi\Praktik_6.2_XPPLG\Praktik_6.2_XPPLG\obj\Debug\Praktik_6.2_XPPLG.exe
+C:\Users\LENOVO\Documents\zara and ummi\Praktik_6.2_XPPLG\Praktik_6.2_XPPLG\obj\Debug\Praktik_6.2_XPPLG.pdb
