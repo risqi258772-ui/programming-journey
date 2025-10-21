@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.1_fungsi\praktik_7.1_fungsi\bin\Debug\praktik_7.1_fungsi.exe.config
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.1_fungsi\praktik_7.1_fungsi\bin\Debug\praktik_7.1_fungsi.exe
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.1_fungsi\praktik_7.1_fungsi\bin\Debug\praktik_7.1_fungsi.pdb
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.1_fungsi\praktik_7.1_fungsi\obj\Debug\praktik_7.1_fungsi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.1_fungsi\praktik_7.1_fungsi\obj\Debug\praktik_7.1_fungsi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.1_fungsi\praktik_7.1_fungsi\obj\Debug\praktik_7.1_fungsi.exe
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.1_fungsi\praktik_7.1_fungsi\obj\Debug\praktik_7.1_fungsi.pdb
