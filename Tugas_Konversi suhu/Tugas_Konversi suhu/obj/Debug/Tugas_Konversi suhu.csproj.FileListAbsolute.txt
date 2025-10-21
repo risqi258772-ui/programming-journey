@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\zaraaa\Tugas_Konversi suhu\Tugas_Konversi suhu\obj\Debug\Tugas_Konversi suhu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\zaraaa\Tugas_Konversi suhu\Tugas_Konversi suhu\obj\Debug\Tugas_Konversi suhu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\zaraaa\Tugas_Konversi suhu\Tugas_Konversi suhu\bin\Debug\Tugas_Konversi suhu.exe.config
+C:\Users\LENOVO\Documents\zaraaa\Tugas_Konversi suhu\Tugas_Konversi suhu\bin\Debug\Tugas_Konversi suhu.exe
+C:\Users\LENOVO\Documents\zaraaa\Tugas_Konversi suhu\Tugas_Konversi suhu\bin\Debug\Tugas_Konversi suhu.pdb
+C:\Users\LENOVO\Documents\zaraaa\Tugas_Konversi suhu\Tugas_Konversi suhu\obj\Debug\Tugas_Konversi suhu.exe
+C:\Users\LENOVO\Documents\zaraaa\Tugas_Konversi suhu\Tugas_Konversi suhu\obj\Debug\Tugas_Konversi suhu.pdb
