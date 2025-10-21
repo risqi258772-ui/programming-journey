@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.5_kalkulator\praktik_7.5_kalkulator\bin\Debug\praktik_7.5_kalkulator.exe.config
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.5_kalkulator\praktik_7.5_kalkulator\bin\Debug\praktik_7.5_kalkulator.exe
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.5_kalkulator\praktik_7.5_kalkulator\bin\Debug\praktik_7.5_kalkulator.pdb
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.5_kalkulator\praktik_7.5_kalkulator\obj\Debug\praktik_7.5_kalkulator.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.5_kalkulator\praktik_7.5_kalkulator\obj\Debug\praktik_7.5_kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.5_kalkulator\praktik_7.5_kalkulator\obj\Debug\praktik_7.5_kalkulator.exe
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.5_kalkulator\praktik_7.5_kalkulator\obj\Debug\praktik_7.5_kalkulator.pdb
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.5_kalkulator\praktik_7.5_kalkulator\obj\Debug\praktik_7.5_kalkulator.exe.config
