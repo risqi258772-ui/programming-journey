@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.4_hitung luas\praktik_7.4_hitung luas\bin\Debug\praktik_7.4_hitung luas.exe.config
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.4_hitung luas\praktik_7.4_hitung luas\bin\Debug\praktik_7.4_hitung luas.exe
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.4_hitung luas\praktik_7.4_hitung luas\bin\Debug\praktik_7.4_hitung luas.pdb
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.4_hitung luas\praktik_7.4_hitung luas\obj\Debug\praktik_7.4_hitung luas.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.4_hitung luas\praktik_7.4_hitung luas\obj\Debug\praktik_7.4_hitung luas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.4_hitung luas\praktik_7.4_hitung luas\obj\Debug\praktik_7.4_hitung luas.exe
+C:\Users\LENOVO\Documents\zaraaa\praktik_7.4_hitung luas\praktik_7.4_hitung luas\obj\Debug\praktik_7.4_hitung luas.pdb
