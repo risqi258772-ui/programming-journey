@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\zara and ummi\Praktik6.7_X PPLG 2\Praktik6.7_X PPLG 2\bin\Debug\Praktik6.7_X PPLG 2.exe.config
+C:\Users\LENOVO\Documents\zara and ummi\Praktik6.7_X PPLG 2\Praktik6.7_X PPLG 2\bin\Debug\Praktik6.7_X PPLG 2.exe
+C:\Users\LENOVO\Documents\zara and ummi\Praktik6.7_X PPLG 2\Praktik6.7_X PPLG 2\bin\Debug\Praktik6.7_X PPLG 2.pdb
+C:\Users\LENOVO\Documents\zara and ummi\Praktik6.7_X PPLG 2\Praktik6.7_X PPLG 2\obj\Debug\Praktik6.7_X PPLG 2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\zara and ummi\Praktik6.7_X PPLG 2\Praktik6.7_X PPLG 2\obj\Debug\Praktik6.7_X PPLG 2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\zara and ummi\Praktik6.7_X PPLG 2\Praktik6.7_X PPLG 2\obj\Debug\Praktik6.7_X PPLG 2.exe
+C:\Users\LENOVO\Documents\zara and ummi\Praktik6.7_X PPLG 2\Praktik6.7_X PPLG 2\obj\Debug\Praktik6.7_X PPLG 2.pdb
