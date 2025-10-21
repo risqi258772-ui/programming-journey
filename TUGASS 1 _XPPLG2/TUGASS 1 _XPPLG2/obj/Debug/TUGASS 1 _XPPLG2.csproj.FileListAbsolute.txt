@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\zara and ummi\TUGASS 1 _XPPLG2\TUGASS 1 _XPPLG2\bin\Debug\TUGASS 1 _XPPLG2.exe.config
+C:\Users\LENOVO\Documents\zara and ummi\TUGASS 1 _XPPLG2\TUGASS 1 _XPPLG2\bin\Debug\TUGASS 1 _XPPLG2.exe
+C:\Users\LENOVO\Documents\zara and ummi\TUGASS 1 _XPPLG2\TUGASS 1 _XPPLG2\bin\Debug\TUGASS 1 _XPPLG2.pdb
+C:\Users\LENOVO\Documents\zara and ummi\TUGASS 1 _XPPLG2\TUGASS 1 _XPPLG2\obj\Debug\TUGASS 1 _XPPLG2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\zara and ummi\TUGASS 1 _XPPLG2\TUGASS 1 _XPPLG2\obj\Debug\TUGASS 1 _XPPLG2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\zara and ummi\TUGASS 1 _XPPLG2\TUGASS 1 _XPPLG2\obj\Debug\TUGASS 1 _XPPLG2.exe
+C:\Users\LENOVO\Documents\zara and ummi\TUGASS 1 _XPPLG2\TUGASS 1 _XPPLG2\obj\Debug\TUGASS 1 _XPPLG2.pdb
