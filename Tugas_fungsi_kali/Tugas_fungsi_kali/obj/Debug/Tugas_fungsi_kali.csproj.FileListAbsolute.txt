@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\zaraaa\Tugas_fungsi_kali\Tugas_fungsi_kali\bin\Debug\Tugas_fungsi_kali.exe.config
+C:\Users\LENOVO\Documents\zaraaa\Tugas_fungsi_kali\Tugas_fungsi_kali\bin\Debug\Tugas_fungsi_kali.exe
+C:\Users\LENOVO\Documents\zaraaa\Tugas_fungsi_kali\Tugas_fungsi_kali\bin\Debug\Tugas_fungsi_kali.pdb
+C:\Users\LENOVO\Documents\zaraaa\Tugas_fungsi_kali\Tugas_fungsi_kali\obj\Debug\Tugas_fungsi_kali.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\zaraaa\Tugas_fungsi_kali\Tugas_fungsi_kali\obj\Debug\Tugas_fungsi_kali.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\zaraaa\Tugas_fungsi_kali\Tugas_fungsi_kali\obj\Debug\Tugas_fungsi_kali.exe
+C:\Users\LENOVO\Documents\zaraaa\Tugas_fungsi_kali\Tugas_fungsi_kali\obj\Debug\Tugas_fungsi_kali.pdb
