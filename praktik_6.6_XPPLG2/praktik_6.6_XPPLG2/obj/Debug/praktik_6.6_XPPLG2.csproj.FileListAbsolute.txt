@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\zaraaa\praktik_6.6_XPPLG2\praktik_6.6_XPPLG2\bin\Debug\praktik_6.6_XPPLG2.exe.config
+C:\Users\LENOVO\Documents\zaraaa\praktik_6.6_XPPLG2\praktik_6.6_XPPLG2\bin\Debug\praktik_6.6_XPPLG2.exe
+C:\Users\LENOVO\Documents\zaraaa\praktik_6.6_XPPLG2\praktik_6.6_XPPLG2\bin\Debug\praktik_6.6_XPPLG2.pdb
+C:\Users\LENOVO\Documents\zaraaa\praktik_6.6_XPPLG2\praktik_6.6_XPPLG2\obj\Debug\praktik_6.6_XPPLG2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\zaraaa\praktik_6.6_XPPLG2\praktik_6.6_XPPLG2\obj\Debug\praktik_6.6_XPPLG2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\zaraaa\praktik_6.6_XPPLG2\praktik_6.6_XPPLG2\obj\Debug\praktik_6.6_XPPLG2.exe
+C:\Users\LENOVO\Documents\zaraaa\praktik_6.6_XPPLG2\praktik_6.6_XPPLG2\obj\Debug\praktik_6.6_XPPLG2.pdb
