@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "projek akhir_Risqi Choirul Nisa Azzahra_XPPLG2/1.0.0": {
+        "runtime": {
+          "projek akhir_Risqi Choirul Nisa Azzahra_XPPLG2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projek akhir_Risqi Choirul Nisa Azzahra_XPPLG2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
