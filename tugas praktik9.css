@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border box;
+    text-decoration: none;
+    text-align: center;
+}
+
+.nav-menu {
+    background-color: pink;
+    padding: 10px;
+    text-align: center;
+}
+
+.nav-item {
+    display: inline-block;
+    background-color: rgb(158, 158, 243);
+    color: white;
+    padding: 10px 20px;
+    margin: 0 5px;
+    text-decoration: none;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+.nav-item:hover {
+    background-color: pink;
+}
