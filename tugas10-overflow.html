@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Tugas Overflow</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            background-color: #f9f9f9;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        /* Navigasi */
+        .nav {
+            text-align: center;
+            margin-bottom: 40px;
+            background-color: #e0e0e0;
+            padding: 10px 0;
+        }
+        .nav a {
+            display: inline-block;
+            padding: 10px 25px;
+            margin: 0 5px;
+            background-color: #a3d9ec;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .nav a:hover {
+            background-color: aqua;
+        }
+        /* Container artikel untuk memberi jarak */
+        .artikel-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            justify-content: center;
+        }
+        /* Gaya dasar artikel */
+        .artikel {
+            width: 300px;
+            border: 2px solid #333;
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .artikel h3 {
+            text-align: center;
+            margin-top: 0;
+            background-color: rgb(159, 194, 209);
+            padding: 5px;
+            border-radius: 5px;
+        }
+        .artikel img {
+            display: block;
+            margin: 0 auto 10px;
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        /* Konten artikel dengan overflow */
+        .konten {
+            width: 100%;
+            height: 150px;   /* Tinggi tetap agar overflow terjadi */
+            background-color: rgb(210, 210, 224);
+            padding: 8px;
+            border: 1px dashed rgb(187, 187, 231);
+            font-size: 14px;
+            line-height: 1.5;
+            text-align: justify;
+        }
+        /* Masing-masing overflow */
+        .visible { overflow: visible; }
+        .hidden { overflow: hidden; }
+        .scroll { overflow: scroll; }
+        .auto { overflow: auto; }
+    </style>
+</head>
+<body>
+
+<h1>Skincare Skin</h1>
+
+<div class="nav">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Product</a>
+    <a href="#">Contact</a>
+</div>
+
+<div class="artikel-container">
+
+    <!-- Artikel 1: overflow visible -->
+    <div class="artikel">
+        <h3>Produk 1: Facial Wash Brightening</h3>
+        <img src="c:\Users\LENOVO\Downloads\CSS\facial wash.jpg" alt="facial wash">
+        <div class="konten visible">
+            <strong>[overflow: visible]</strong><br>
+             Facial wash ini diformulasikan untuk membantu membersihkan wajah dari kotoran, 
+             debu, dan minyak berlebih yang menempel setelah beraktivitas seharian. Dengan 
+             kandungan bahan yang lembut di kulit, produk ini dapat digunakan setiap hari tanpa 
+             membuat kulit terasa kering. Selain membersihkan, facial wash ini juga membantu menjaga 
+             kelembapan alami kulit sehingga wajah terasa lebih segar, halus, dan tampak lebih cerah. 
+             Penggunaan secara rutin dapat membantu membuat kulit wajah terlihat lebih bersih dan terawat.
+        </div>
+    </div>
+
+    <!-- Artikel 2: overflow hidden -->
+    <div class="artikel">
+        <h3>Produk 2: Serum Vitamin C</h3>
+        <img src="c:\Users\LENOVO\Downloads\serum skin.jpg" alt="serum skin">
+        <div class="konten hidden">
+            <strong>[overflow: hidden]</strong><br>
+            Serum ini membantu mencerahkan kulit wajah dan membuat kulit terlihat lebih sehat. 
+            Teksturnya ringan dan mudah meresap sehingga nyaman digunakan pada pagi maupun malam hari.
+        </div>
+    </div>
+
+    <!-- Artikel 3: overflow scroll -->
+    <div class="artikel">
+        <h3>Produk 3: Moisturizer Hydrating Cream</h3>
+        <img src="c:\Users\LENOVO\Downloads\mois.jpeg" alt="mois">
+        <div class="konten scroll">
+            <strong>[overflow: scroll]</strong><br>
+             Krim pelembap ini membantu menjaga kelembapan kulit sepanjang hari. 
+             Cocok digunakan untuk semua jenis kulit agar kulit terasa lebih halus dan lembut.
+        </div>
+    </div>
+
+    <!-- Artikel 4: overflow auto -->
+    <div class="artikel">
+        <h3>Produk 4: Sunscreen Protection SPF</h3>
+        <img src="c:\Users\LENOVO\Downloads\ss.jpeg" alt="ss">
+        <div class="konten auto">
+            <strong>[overflow: auto]</strong><br>
+            Sunscreen ini diformulasikan untuk membantu melindungi kulit dari paparan sinar matahari, 
+            terutama sinar UVA dan UVB yang dapat menyebabkan kulit menjadi kusam dan terasa kering. 
+            Produk ini memiliki tekstur yang ringan sehingga mudah meresap ke dalam kulit tanpa meninggalkan 
+            rasa lengket. Selain melindungi kulit, sunscreen ini juga membantu menjaga kelembapan kulit agar 
+            tetap terasa halus dan nyaman sepanjang hari. Sangat cocok digunakan saat beraktivitas di luar 
+            ruangan agar kulit tetap terlindungi dan terlihat lebih sehat.
+        </div>
+    </div>
+    </div>
+</body>
+</html>
