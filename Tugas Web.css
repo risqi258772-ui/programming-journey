@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background: #f2f2f2;
+    text-align: center;
+}
+
+/* Judul */
+h1 {
+    background: rgb(168, 183, 229);
+    color: white;
+    padding: 15px;
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    background: pink;
+    padding: 15px;
+   
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.navbar a:hover {
+    color: yellow;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 18px;
+    padding: 25px;
+    flex-wrap: wrap;
+  
+}
+
+.card {
+    background: white;
+    width: 300px;
+    height: 550px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+    padding: 15px;
+    transition: 0.3s;
+   
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.card h3 {
+    margin: 10px 0;
+}
+
+.card p {
+    font-size: 14px;
+}
+.btn-beli {
+    background-color: pink;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 150px;
+    justify-content: left;
+    display: block;
+    margin: 0 auto;
+}
+
+.btn-beli:hover {
+    background-color: rgb(189, 189, 234);
+    transform: scale(1,1);
+}
+
+.btn-beli:active {
+    background-color: red;
+}
