@@ -1,0 +1,94 @@
+/* Kontak */
+.kontak-container {
+    text-align: center;
+    padding: 20px;
+}
+
+form input, form textarea {
+    width: 250px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+form button {
+    background:pink;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.info {
+    margin-top: 20px;
+}  
+
+header {
+    background: pink;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+
+.menu {
+    list-style: none;
+    background: pink;
+    margin: 0;
+    padding: 0;
+}
+
+.menu > li {
+    display: inline-block;
+    position: relative;
+}
+
+.menu a {
+    color: white;
+    padding: 10px 15px;
+    display: block;
+    text-decoration: none;
+}
+
+nav {
+    font-family: monospace;
+}
+
+/* Hover menu utama */
+li:hover,
+li:focus {
+    background:pink;
+    cursor: pointer;
+}
+
+/* Hilangkan outline */
+li:focus-within a {
+    outline: none;
+}
+
+/* Dropdown awalnya disembunyikan */
+ul li ul {
+    background:  pink;
+    visibility: hidden;
+    opacity: 0;
+    min-width: 150px;
+    position: absolute;
+    transition: all 0.5s ease;
+    left: 0;
+    display: none;
+}
+
+/* Tampilkan dropdown saat hover */
+ul li:hover > ul,
+ul li:focus-within > ul {
+    visibility: visible;
+    opacity: 1;
+    display: block;
+}
+
+ul li ul li {
+    clear: both;
+    width: 100%;
+}
