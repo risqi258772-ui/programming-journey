@@ -1,0 +1,231 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tampilan font*/
+body {
+  font-family: Georgia, serif;
+  color: pink;
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* backround login */
+.pg-login {
+  background-color: #f4d7e3;
+  min-height: 100vh;
+  display: flex;      
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* Tengah login, menata isi halaman */
+.login-tengah {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+  flex: 1;
+  padding: 40px;
+}
+
+/* form tersusun ke bawah */
+.form-area {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 320px;
+}
+
+/* teks tebal */
+.form-area label {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #1a1a1a;
+}
+
+.form-area input {
+  width: 100%;
+  padding: 14px 16px;
+  border: 2.5px solid #111;
+  border-radius: 12px;  /* melengkung */
+  font-size: 1rem;
+  margin-bottom: 10px;
+  transition: border-color 0.3s;
+}
+
+/* warna border berubah pink */
+.form-area input:focus {
+  border-color: pink;
+  outline: none;
+}
+
+/* Tombol masuk */
+.btn-masuk {
+  display: block;         
+  margin-top: 10px;
+  padding: 12px;
+  background-color: pink;
+  color: #fff;
+  border-radius: 10px;      
+  text-align: center;   
+  font-weight: bold;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+}
+
+.btn-masuk:hover {
+  background-color: rgb(115, 112, 197);
+}
+
+/* beranda tampilan atas */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 28px; 
+  background-color: rgb(231, 159, 159);
+  color: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 10;  /* berada di lapiran atas */
+}
+
+nav span {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+/* warna kembali */  
+nav a {
+  color: #2f9742;
+  border: 1px solid #a63232;
+  border-radius: 6px;
+  padding: 6px 14px;     
+  transition: all 0.3s; 
+}
+
+/* berubah warna putih */
+nav a:hover {
+  background-color: #fff;
+  color: #2f9742;
+}
+
+/* Backround beranda */
+.hero {
+  background-color: rgb(164, 164, 203); 
+  color: #fff;
+  text-align: center;   
+  padding: 36px 20px; 
+}
+
+.hero h1 {
+  font-size: 2rem;
+  margin-bottom: 8px;
+}
+
+/* film 3 kolom*/
+.grid-film {
+  display: grid;               
+  grid-template-columns: repeat(3, 1fr); /* Grid Kolom */
+  gap: 24px;          /* jarak */
+  padding: 36px 40px;            
+  max-width: 900px;  /* lebar tengah */
+  margin: 0 auto;                   
+}
+
+/* lengkungan kartu film */
+.kartu {
+  border: 2px solid #791111;
+  border-radius: 10px; 
+  overflow: hidden;
+  background-color: #fff;
+  text-align: center;
+  box-shadow: 0 3px 10px rgb(230, 195, 201);
+  transition: transform 0.3s;
+}
+
+/* gambar lebar */
+.kartu img {
+  width: 100%;    
+  height: 160px;
+  object-fit: cover;        
+  display: block;       
+}
+
+/* judul film */
+.kartu p {
+  padding: 12px;     
+  font-weight: bold;
+  font-size: 0.95rem;
+  color: #2c2c2c;
+}
+
+/* HALAMAN FILM */
+.pg-beranda {
+  background-color: #fdf6ec;
+}
+
+/* Judul */
+.film-judul {
+  max-width: 800px;        
+  margin: 30px auto;         
+  padding: 0 24px;         
+}
+
+.film-judul h1 {
+  font-size: 1.8rem;
+  font-weight: bold;         /* Teks */
+  margin-bottom: 12px;
+}
+
+.film-judul p {
+  font-size: 1rem;
+  line-height: 1.7;    /* judul teks */
+  color: #333;           
+}
+
+/* Gambar judul film */
+.gambar-judul {
+  max-width: 800px;      
+  margin: 0 auto 20px;    
+  padding: 0 24px;         
+}
+
+.gambar-judul img {
+  width: 100%;        /* lebar vidio */
+  border-radius: 10px;       
+  display: block;         
+}
+
+/* Area video YouTube */
+.video-area {
+  max-width: 800px;  /* Ukuran Elemen */
+  margin: 0 auto 40px;      
+  padding: 0 24px;           
+}
+
+.video-area iframe {
+  width: 100%;         
+  height: 450px;
+  border: none;        
+  border-radius: 10px;    
+  display: block; 
+}
+
+/* FOOTER */
+footer {
+  background-color: rgb(98, 98, 138);
+  color: #aaa;
+  text-align: center;        
+  padding: 18px;             
+  font-size: 0.88rem;
+  margin-top: 20px; 
+}
